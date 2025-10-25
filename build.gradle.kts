@@ -38,10 +38,6 @@ repositories {
         url = uri("https://maven.shadowfacts.net/")
     }
     maven {
-        name = "GTNH Maven"
-        url = uri("http://jenkins.usrv.eu:8081/nexus/content/groups/public/")
-    }
-    maven {
         name = "TOP"
         url = uri("https://maven.tterrag.com/")
     }
